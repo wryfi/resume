@@ -39,3 +39,7 @@ ul li:before {
 li {
   margin-bottom: 5px;
 }
+
+small > a > img {
+  padding-bottom: 5px;
+}
